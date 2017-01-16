@@ -1,0 +1,16 @@
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\RepositoryArchitecture.exe.config
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\RepositoryArchitecture.exe
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\RepositoryArchitecture.pdb
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\obj\Debug\RepositoryArchitecture.exe
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\obj\Debug\RepositoryArchitecture.pdb
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\lib\win32\x64\git2-a5cf255.dll
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\lib\win32\x64\git2-a5cf255.pdb
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\lib\win32\x86\git2-a5cf255.dll
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\lib\win32\x86\git2-a5cf255.pdb
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\lib\osx\libgit2-a5cf255.dylib
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\lib\linux\x86_64\libgit2-a5cf255.so
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\LibGit2Sharp.dll.config
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\LibGit2Sharp.dll
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\LibGit2Sharp.pdb
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\bin\Debug\LibGit2Sharp.xml
+C:\Users\evgeni.dyulgerov\Desktop\Code Focus Files\RepositoryArchitecture\RepositoryArchitecture\obj\Debug\RepositoryArchitecture.csprojResolveAssemblyReference.cache
